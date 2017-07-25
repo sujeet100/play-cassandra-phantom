@@ -1,0 +1,25 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+# Intellij Idea project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# gradle config
+.gradle/
+
+# project binaries
+build/
+/out/
+/log/
+/classes/
+target
+
+.g8
